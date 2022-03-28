@@ -1,18 +1,18 @@
-var TITLE = 'Air Transport, Passengers Carried (1970–2018)';
+var TITLE = 'Number of Venezuelan Asylum Seekers is Steadily Rising';
 
 // Caption underneath the chart
-var CAPTION = 'Source: The World Bank';
+var CAPTION = 'Source: UNHCR';
 
 // Add download link to the caption
-CAPTION += '<br><a href="https://github.com/HandsOnDataViz/highcharts-line-annotated" style="color:blue">View data and code</a>, \
-created by <a href="https://handsondataviz.org/" style="color: blue">HandsOnDataViz</a> \
+CAPTION += '<br><a href="https://valesanchez99.github.io/line-chart-practice/" style="color:blue">View data and code</a>, \
+created by Valentina Sanchez \
 with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
 
 // x-axis label and label in tooltip
 var X_AXIS = 'Year';
 
 // y-axis label and label in tooltip
-var Y_AXIS = 'Passengers';
+var Y_AXIS = 'People Seeking Asylum in the US';
 
 // Should y-axis start from 0? `true` or `false`
 var BEGIN_AT_ZERO = true;
